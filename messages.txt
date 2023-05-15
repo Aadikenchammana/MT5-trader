@@ -1,0 +1,1 @@
+{"validate": "TRUE", "restart_flag": "FALSE", "full_close_flag": "FALSE", "allow_restart": "TRUE", "allow_full_close": "true", "EURUSD_status": "regular", "USDCHF_status": "regular", "hi flag": "hi"}
